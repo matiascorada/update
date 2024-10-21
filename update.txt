@@ -1,0 +1,10 @@
+Data/Local/Eng/serverlist.bmd.rar;D9F3CE46;360
+Data/Interface/gamecensorship_18.ozt.rar;FF019236;45984
+Data/Interface/gamecensorship_ci.ozj.rar;2C8B89B8;23015559
+Data/Interface/gamecensorship_vio.ozt.rar;EC58BF4A;45984
+Data/Interface/lo_back_s5_im01.OZJ.rar;01B5FC95;22517
+Data/Interface/lo_back_s5_im02.OZJ.rar;10532D33;42235
+Data/Interface/lo_back_s5_im03.OZJ.rar;06DB1BBA;3806
+Data/Interface/lo_back_s5_im04.OZJ.rar;4705ABC3;5698
+Data/Interface/lo_back_s5_im05.OZJ.rar;18452E44;12153
+Data/Interface/lo_back_s5_im06.OZJ.rar;FD24A761;2259
